@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Travel_Website/static/css/main.2a088856.css",
+    "main.js": "/Travel_Website/static/js/main.a14da8ec.js",
+    "static/media/main.mp4": "/Travel_Website/static/media/main.8fea76138187afa42619.mp4",
+    "static/media/footer.mp4": "/Travel_Website/static/media/footer.14c213b2026935dedbf6.mp4",
+    "static/media/cover-women.jpg": "/Travel_Website/static/media/cover-women.0840ac3964ffd12eaf0b.jpg",
+    "static/media/travel-cover2.jpg": "/Travel_Website/static/media/travel-cover2.019175fef7b91329d672.jpg",
+    "static/media/travelbox.png": "/Travel_Website/static/media/travelbox.81f4267c82e6288f781f.png",
+    "static/media/place4.jpg": "/Travel_Website/static/media/place4.cf91669784bc1b568488.jpg",
+    "static/media/place5.jpg": "/Travel_Website/static/media/place5.09394eae6740e2059979.jpg",
+    "static/media/place6.jpg": "/Travel_Website/static/media/place6.9d5978f71e8d686e3c5a.jpg",
+    "static/media/logo.png": "/Travel_Website/static/media/logo.fbd6fc4e4c3fbae4dfd8.png",
+    "static/media/tajmahal.jpg": "/Travel_Website/static/media/tajmahal.b81169c9de71c1b1ee53.jpg",
+    "static/media/water.jpg": "/Travel_Website/static/media/water.028e98bcd0106ccd0230.jpg",
+    "static/media/boat.jpg": "/Travel_Website/static/media/boat.46fdf26d29ef6167ea9a.jpg",
+    "static/media/slick.svg": "/Travel_Website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Travel_Website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Travel_Website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Travel_Website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Travel_Website/index.html",
+    "main.2a088856.css.map": "/Travel_Website/static/css/main.2a088856.css.map",
+    "main.a14da8ec.js.map": "/Travel_Website/static/js/main.a14da8ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a088856.css",
+    "static/js/main.a14da8ec.js"
+  ]
+}
